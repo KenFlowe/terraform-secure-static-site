@@ -6,6 +6,8 @@ Optionally proxies `/api/*` traffic to an API Gateway backend.
 
 Built by a cleared AWS Security Specialty engineer with hands-on experience on classified DoD networks.
 
+**[Download full package on Gumroad → $29](https://kenflowe.gumroad.com/l/ktnjgw)**
+
 ---
 
 ## What This Deploys
