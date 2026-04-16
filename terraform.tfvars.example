@@ -1,0 +1,14 @@
+project_name = "myapp"
+environment  = "prod"
+aws_region   = "us-east-1"
+domain_name  = "myapp.com"
+
+# Optional: set this to proxy /api/* to a backend
+# api_gateway_url = "https://abc123.execute-api.us-east-1.amazonaws.com"
+
+waf_rate_limit     = 2000
+price_class        = "PriceClass_100"
+log_retention_days = 30
+
+# Optional: override default Content-Security-Policy
+# content_security_policy = "default-src 'self'; ..."
